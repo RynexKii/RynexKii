@@ -3,6 +3,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jaro&size=30&pause=1000&color=09F7B5&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+Prazer+em+te+ver+por+aqui+%F0%9F%91%8B;Eu+me+chamo+Marcos!" alt="Typing SVG" />
 </div>
 
+<!--Sobre-->
+
+<div align="center">
+  <h3>Sobre Mim</h3>
+  <p>Sou um entusiasta de desenvolvimento FullStack em constante aprendizado. Atualmente, estou focado em aprimorar minhas habilidades tanto no front-end quanto no back-end, buscando me tornar um desenvolvedor FullStack completo.</p>
+</div>
+
 <!--Utilizo-->
 <div align="center" >
   <h3>Linguagens, Frameworks e Ferramentas que utilizo</h3>
