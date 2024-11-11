@@ -12,14 +12,8 @@
 
 <!--Utilizo-->
 <div align="center" >
-  <h3>Linguagens, Frameworks e Ferramentas que utilizo</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,discordjs,vscode,github,git" />
-</div>
-
-<!--Estudar-->
-<div align="center" >
-  <h3>Linguagens e Frameworks que vou estudar</h3>
-  <img src="https://skillicons.dev/icons?i=react,sass,bootstrap,nextjs,nodejs,mysql" />
+  <h3>Minhas Habilidades</h3>
+  <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,postgres,prisma,mongodb,discordjs,vscode,github,git" />
 </div>
 
 <br>
