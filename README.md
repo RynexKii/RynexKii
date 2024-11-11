@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>Sobre Mim</h3>
-  <p>Sou um entusiasta de desenvolvimento FullStack em constante aprendizado. Atualmente, estou focado em aprimorar minhas habilidades tanto no front-end quanto no back-end, buscando me tornar um desenvolvedor FullStack completo.</p>
+  <p>Sou um desenvolvedor em constante aprendizado, com foco em backend, área onde realmente me identifico. Estou empenhado em evoluir minhas habilidades e buscar aprimoramento contínuo para me tornar um programador cada vez melhor.</p>
 </div>
 
 <!--Utilizo-->
