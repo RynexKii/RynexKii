@@ -25,5 +25,5 @@
 
 <!--Visitantes-->
 <div align="center">
-    <img src="https://visit-counter.vercel.app/counter.png?page=RynexKii&ta=%20Visitantes&c=09F7B5FF">
+    <img src="https://visit-counter.vercel.app/counter.png?page=Ryneco&ta=%20Visitantes&c=09F7B5FF">
 </div>
