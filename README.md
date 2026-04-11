@@ -20,7 +20,7 @@
 
 <!--Stats-->
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RynexKii&theme=green-nur&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ryneco&theme=green-nur&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
 <!--Visitantes-->
