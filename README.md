@@ -22,8 +22,3 @@
 <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ryneco&theme=green-nur&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
-
-<!--Visitantes-->
-<div align="center">
-    <img src="https://visit-counter.vercel.app/counter.png?page=Ryneco&ta=%20Visitantes&c=09F7B5FF">
-</div>
